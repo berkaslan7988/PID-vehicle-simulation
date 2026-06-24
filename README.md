@@ -97,12 +97,6 @@ oto_kontrol/
 - **Vehicle Mass / Araç Kütlesi:** change the vehicle's `Rigidbody > Mass` value in the Inspector / Aracın Inspector'ındaki `Rigidbody > Mass` değerini değiştirin
 - **CSV Output / CSV Çıktısı:** `pid_verileri.csv` is generated automatically when you exit Play mode / Play'den çıkınca otomatik olarak `pid_verileri.csv` oluşur
 
-## 📈 Regenerating the Report Charts / Rapor Grafiklerini Yeniden Oluşturma
-
-```bash
-pip install matplotlib pandas
-python rapor_grafikleri.py
-```
 
 ## 🛠️ Technologies / Teknolojiler
 
@@ -110,4 +104,3 @@ python rapor_grafikleri.py
 - **C#** — control algorithms / Kontrol algoritmaları
 - **Python** — data analysis and chart generation / Veri analizi ve grafik oluşturma
 - **Matplotlib** — scientific charts / Bilimsel grafikler
-- **fpdf2 / python-docx** — report generation / Rapor oluşturma

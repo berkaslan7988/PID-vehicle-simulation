@@ -1,0 +1,77 @@
+=== BRIDGE FINDER - Raycast Sonuclari ===
+
+--- KOPRU BOLGESI (X:350-650, Z:-250 to -100) ---
+X:350 Z:-260 Y:14,4 obj:city_part_collider
+X:350 Z:-240 Y:14,2 obj:city_part_collider
+X:370 Z:-260 Y:14,1 obj:city_part_collider
+X:370 Z:-240 Y:14,0 obj:city_part_collider
+X:390 Z:-260 Y:14,0 obj:city_part_collider
+X:390 Z:-240 Y:13,9 obj:city_part_collider
+X:410 Z:-240 Y:13,9 obj:city_part_collider
+X:410 Z:-220 Y:13,8 obj:city_part_collider
+X:430 Z:-240 Y:13,8 obj:city_part_collider
+X:430 Z:-220 Y:13,6 obj:city_part_collider
+X:450 Z:-240 Y:13,6 obj:city_part_collider
+X:450 Z:-220 Y:13,5 obj:city_part_collider
+X:470 Z:-220 Y:13,3 obj:city_part_collider
+X:470 Z:-200 Y:13,2 obj:city_part_collider
+X:490 Z:-220 Y:13,1 obj:city_part_collider
+X:490 Z:-200 Y:13,0 obj:city_part_collider
+X:510 Z:-220 Y:13,0 obj:city_part_collider
+X:510 Z:-200 Y:12,9 obj:city_part_collider
+X:530 Z:-220 Y:12,9 obj:city_part_collider
+X:530 Z:-200 Y:12,9 obj:city_part_collider
+X:550 Z:-220 Y:13,0 obj:city_part_collider
+X:550 Z:-200 Y:12,9 obj:city_part_collider
+X:570 Z:-220 Y:13,2 obj:city_part_collider
+X:570 Z:-200 Y:13,1 obj:city_part_collider
+X:590 Z:-220 Y:13,4 obj:city_part_collider
+X:590 Z:-200 Y:13,3 obj:city_part_collider
+X:610 Z:-200 Y:13,6 obj:city_part_collider
+X:630 Z:-200 Y:13,9 obj:city_part_collider
+X:650 Z:-200 Y:14,2 obj:city_part_collider
+
+--- RAMPA HATTI (250,-100) -> (600,-220) ---
+t:0,00 X:250 Z:-100 Y:4,8 obj:city_part_collider
+t:0,02 X:258 Z:-103 Y:4,9 obj:city_part_collider
+t:0,04 X:266 Z:-105 Y:5,0 obj:city_part_collider
+t:0,68 X:522 Z:-188 Y:12,8 obj:city_part_collider
+t:0,70 X:530 Z:-191 Y:12,8 obj:city_part_collider
+t:0,72 X:538 Z:-194 Y:12,8 obj:city_part_collider
+t:0,74 X:546 Z:-196 Y:12,9 obj:city_part_collider
+t:0,76 X:554 Z:-199 Y:12,9 obj:city_part_collider
+t:0,78 X:562 Z:-201 Y:13,0 obj:city_part_collider
+t:0,80 X:570 Z:-204 Y:13,1 obj:city_part_collider
+t:0,82 X:578 Z:-207 Y:13,2 obj:city_part_collider
+t:0,84 X:586 Z:-209 Y:13,3 obj:city_part_collider
+t:0,86 X:594 Z:-212 Y:13,4 obj:city_part_collider
+t:0,88 X:602 Z:-214 Y:13,5 obj:city_part_collider
+t:0,90 X:610 Z:-217 Y:13,7 obj:city_part_collider
+
+--- DOGU RAMPASI (X:400-600, Z=-200 sabit hat) ---
+X:250 Y:6,7 obj:city_part_collider
+X:265 Y:6,7 obj:city_part_collider
+X:475 Y:13,1 obj:city_part_collider
+X:490 Y:13,0 obj:city_part_collider
+X:505 Y:12,9 obj:city_part_collider
+X:520 Y:12,9 obj:city_part_collider
+X:535 Y:12,8 obj:city_part_collider
+X:550 Y:12,9 obj:city_part_collider
+X:565 Y:13,0 obj:city_part_collider
+X:580 Y:13,2 obj:city_part_collider
+X:595 Y:13,4 obj:city_part_collider
+X:610 Y:13,6 obj:city_part_collider
+X:625 Y:13,8 obj:city_part_collider
+X:640 Y:14,1 obj:city_part_collider
+X:655 Y:14,3 obj:city_part_collider
+X:670 Y:14,5 obj:city_part_collider
+X:685 Y:14,6 obj:city_part_collider
+X:700 Y:14,7 obj:city_part_collider
+
+--- Z=-180 HATTI ---
+X:250 Y:6,7 obj:city_part_collider
+X:265 Y:6,7 obj:city_part_collider
+
+--- Z=-160 HATTI ---
+X:250 Y:6,8 obj:city_part_collider
+X:265 Y:6,7 obj:city_part_collider

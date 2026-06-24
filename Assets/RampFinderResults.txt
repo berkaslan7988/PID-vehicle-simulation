@@ -1,0 +1,11 @@
+=== INTERSECTION AND RAMP FINDER ===
+
+--- EAST FROM INTERSECTION (Z=-123) ---
+X:270 Z:-123 Y:5,9 obj:city_part_collider
+
+--- GRID AROUND RAMP ENTRANCE ---
+X:270 Z:-160 Y:6,8 obj:city_part_collider
+X:270 Z:-140 Y:6,6 obj:city_part_collider
+X:270 Z:-120 Y:5,8 obj:city_part_collider
+X:270 Z:-100 Y:4,8 obj:city_part_collider
+X:270 Z:-80 Y:4,8 obj:city_part_collider

@@ -1,0 +1,104 @@
+CAR POS: (256.56, 6.71, -173.12)
+CAR FWD: (0.00, 0.00, 1.00)
+
+=== KUZEY (Z artiyor) ===
+Z:-173 Y:7,2 obj:Fortina
+Z:-168 Y:6,7 obj:city_part_collider
+Z:-163 Y:6,7 obj:city_part_collider
+Z:-158 Y:6,7 obj:city_part_collider
+Z:-153 Y:6,7 obj:city_part_collider
+Z:-148 Y:6,7 obj:city_part_collider
+Z:-143 Y:6,6 obj:city_part_collider
+Z:-138 Y:6,5 obj:city_part_collider
+Z:-133 Y:6,3 obj:city_part_collider
+Z:-128 Y:6,1 obj:city_part_collider
+Z:-123 Y:5,9 obj:city_part_collider
+Z:-118 Y:5,6 obj:city_part_collider
+Z:-113 Y:5,3 obj:city_part_collider
+Z:-108 Y:5,1 obj:city_part_collider
+Z:-103 Y:4,9 obj:city_part_collider
+Z:-98 Y:4,7 obj:city_part_collider
+Z:-93 Y:4,7 obj:city_part_collider
+Z:-88 Y:4,7 obj:city_part_collider
+Z:-83 Y:4,7 obj:city_part_collider
+Z:-78 Y:4,7 obj:city_part_collider
+Z:-73 Y:4,7 obj:city_part_collider
+Z:-68 Y:4,7 obj:city_part_collider
+Z:-63 Y:4,7 obj:city_part_collider
+Z:-58 Y:4,7 obj:city_part_collider
+Z:-53 Y:4,7 obj:city_part_collider
+
+=== DOGU (X artiyor) ===
+X:257 Y:7,2 obj:Fortina
+X:262 Y:6,7 obj:city_part_collider
+X:267 Y:6,7 obj:city_part_collider
+X:272 Y:6,8 obj:city_part_collider
+X:277 -> BOS
+X:282 -> BOS
+X:287 -> BOS
+X:292 -> BOS
+X:297 -> BOS
+X:302 -> BOS
+X:307 -> BOS
+X:312 -> BOS
+X:317 -> BOS
+
+=== BATI (X azaliyor) ===
+X:257 Y:7,2 obj:Fortina
+X:252 Y:6,7 obj:city_part_collider
+X:247 Y:6,7 obj:city_part_collider
+X:242 Y:6,7 obj:city_part_collider
+X:237 Y:6,7 obj:city_part_collider
+X:232 Y:6,7 obj:city_part_collider
+X:227 Y:6,6 obj:city_part_collider
+X:222 Y:6,6 obj:city_part_collider
+X:217 Y:6,6 obj:city_part_collider
+X:212 Y:6,6 obj:city_part_collider
+X:207 Y:6,6 obj:city_part_collider
+X:202 Y:6,6 obj:city_part_collider
+X:197 Y:6,5 obj:city_part_collider
+
+=== GUNEY (Z azaliyor) ===
+Z:-173 Y:7,2 obj:Fortina
+Z:-178 Y:6,7 obj:city_part_collider
+Z:-183 Y:6,7 obj:city_part_collider
+Z:-188 Y:6,7 obj:city_part_collider
+Z:-193 Y:6,7 obj:city_part_collider
+Z:-198 Y:6,7 obj:city_part_collider
+Z:-203 -> BOS
+Z:-208 -> BOS
+Z:-213 -> BOS
+Z:-218 -> BOS
+Z:-223 -> BOS
+Z:-228 -> BOS
+Z:-233 -> BOS
+
+=== X=240 HATTI KUZEY ===
+Z:-173 Y:6,7 obj:city_part_collider
+Z:-168 Y:6,7 obj:city_part_collider
+Z:-78 Y:4,7 obj:city_part_collider
+Z:-73 Y:4,7 obj:city_part_collider
+Z:-68 Y:4,7 obj:city_part_collider
+Z:-63 Y:4,7 obj:city_part_collider
+Z:-58 Y:4,7 obj:city_part_collider
+Z:-53 Y:4,8 obj:city_part_collider
+
+=== Z=-74 HATTI BATI (KAVSAK) ===
+X:270 Y:4,8 obj:city_part_collider
+X:260 Y:4,7 obj:city_part_collider
+X:250 Y:4,7 obj:city_part_collider
+X:240 Y:4,7 obj:city_part_collider
+X:230 Y:4,7 obj:city_part_collider
+X:220 Y:4,7 obj:city_part_collider
+X:210 Y:4,7 obj:city_part_collider
+X:200 Y:4,7 obj:city_part_collider
+X:190 Y:4,7 obj:city_part_collider
+X:180 Y:4,7 obj:city_part_collider
+X:170 Y:4,7 obj:city_part_collider
+X:160 Y:4,7 obj:city_part_collider
+X:150 Y:4,7 obj:city_part_collider
+X:140 Y:4,7 obj:city_part_collider
+X:130 Y:4,7 obj:city_part_collider
+X:120 Y:4,7 obj:city_part_collider
+X:110 Y:4,7 obj:city_part_collider
+X:100 Y:4,7 obj:city_part_collider

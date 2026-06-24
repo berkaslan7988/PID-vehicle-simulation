@@ -1,0 +1,31 @@
+=== DEEP SOUTH RAMP FINDER ===
+Z:-160 -> En yuksek yol X:-60 Y:5,8
+Z:-170 -> En yuksek yol X:-60 Y:5,8
+Z:-180 -> En yuksek yol X:-60 Y:5,8
+Z:-190 -> En yuksek yol X:-20 Y:5,6
+Z:-200 -> En yuksek yol X:-25 Y:5,1
+Z:-210 -> En yuksek yol X:20 Y:7,4
+Z:-220 -> En yuksek yol X:20 Y:7,5
+Z:-230 -> En yuksek yol X:-40 Y:5,0
+Z:-240 -> En yuksek yol X:10 Y:13,9
+Z:-250 -> En yuksek yol X:20 Y:14,1
+Z:-260 -> En yuksek yol X:20 Y:14,1
+Z:-270 -> En yuksek yol X:20 Y:14,2
+Z:-280 -> En yuksek yol X:-20 Y:4,7
+Z:-290 -> En yuksek yol X:-15 Y:4,7
+Z:-300 -> En yuksek yol X:20 Y:7,3
+
+=== HW1'DEN DOGUYA (SEHRE) INEN RAMPA ===
+X:-260 -> En yuksek yol Z:-260 Y:13,9
+X:-240 -> En yuksek yol Z:-270 Y:14,0
+X:-220 -> En yuksek yol Z:-280 Y:14,0
+X:-200 -> En yuksek yol Z:-270 Y:14,0
+X:-180 -> En yuksek yol Z:-290 Y:14,0
+X:-160 -> En yuksek yol Z:-270 Y:14,0
+X:-140 -> En yuksek yol Z:-270 Y:13,9
+X:-120 -> En yuksek yol Z:-270 Y:13,9
+X:-100 -> En yuksek yol Z:-270 Y:13,9
+X:-80 -> En yuksek yol Z:-270 Y:13,9
+X:-60 -> En yuksek yol Z:-270 Y:13,9
+X:-40 -> En yuksek yol Z:-270 Y:13,9
+X:-20 -> En yuksek yol Z:-270 Y:13,9

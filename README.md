@@ -76,12 +76,7 @@ oto_kontrol/
 │   └── Scenes/
 │       └── SampleScene.unity     # Ana sahne
 ├── rapor_grafikleri/              # Matplotlib grafikleri
-├── rapor_grafikleri.py            # Grafik oluşturma scripti
-├── rapor_pdf.py                   # PDF rapor oluşturma
-├── rapor_word.py                  # Word rapor oluşturma
 ├── pid_verileri.csv               # Simülasyon çıktı verisi
-├── PID_Rapor.pdf                  # PDF formatında rapor
-└── PID_Rapor.docx                 # Word formatında rapor
 ```
 
 ## 🚀 Kurulum ve Çalıştırma

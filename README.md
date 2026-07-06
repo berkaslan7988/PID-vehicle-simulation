@@ -1,5 +1,7 @@
 # 🏎️ PID Kontrolcü ile Otonom Araç Şerit Takip Simülasyonu
 
+<img width="1661" height="818" alt="resim" src="https://github.com/user-attachments/assets/12f1a1c3-3302-4ba0-b173-d3849f2fc942" />
+
 ![Unity](https://img.shields.io/badge/Unity-6-black?logo=unity)
 ![C#](https://img.shields.io/badge/C%23-12-blue?logo=dotnet)
 ![License](https://img.shields.io/badge/License-MIT-green)
